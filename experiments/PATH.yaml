@@ -1,0 +1,4 @@
+train_data_dir: /data2/zyj/data/BraTS2019/MICCAI_BraTS_2019_Data_Training/
+valid_data_dir: /data2/zyj/data/BraTS2019/MICCAI_BraTS_2019_Data_Validation/MICCAI_BraTS_2019_Data_Validation/
+#test_data_dir: /mip/Data/BraTS2018/Test
+ckpt_dir: /data2/zyj/paper/FHDC-Net/ckptscgagamx3xg2019
