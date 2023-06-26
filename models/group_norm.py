@@ -1,6 +1,4 @@
-# Pytorch implementation of group normalization in https://arxiv.org/abs/1803.08494
-# https://github.com/chengyangfu/pytorch-groupnormalization
-# PyTorch now officially supports group normalization (https://pytorch.org/docs/stable/generated/torch.nn.GroupNorm.html).
+
 
 import torch
 import torch.nn.functional as F
