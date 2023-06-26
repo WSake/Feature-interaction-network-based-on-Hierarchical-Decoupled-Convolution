@@ -1,5 +1,3 @@
-# We sincerely thank Dr.Yunpeng Chen for open-sourcing the GloRe:
-# Adopted from: https://github.com/cypw/GloRe
 
 import torch
 from torch.nn import Conv1d, Conv3d, Module, BatchNorm3d, ReLU
