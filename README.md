@@ -1,5 +1,5 @@
 # Feature interaction network based on Hierarchical Decoupled Convolution for 3D medical image segmentation
-This repository is the work of "Feature interaction network based on Hierarchical Decoupled Convolution for 3D medical image segmentation" based on PyTorch implementation. <br>
+This repository is the work of <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288658" target="_blank">"Feature interaction network based on Hierarchical Decoupled Convolution for 3D medical image segmentation"</a> based on PyTorch implementation. <br>
 # Requirements
 * python 3.6<br>
 * pytorch 0.4 or 1.0<br>
